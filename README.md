@@ -4,8 +4,8 @@ in the future.
 
 # Default Passwords
 
-- [Router Passwords] (https://routerpasswords.com/)
-- [Phenolit] (http://www.phenoelit.org/dpl/dpl.html)
-- [Default Password] (http://www.defaultpassword.com/)
-- [Cirt] (https://cirt.net/passwords)
+- [Router Passwords](https://routerpasswords.com/)
+- [Phenolit](http://www.phenoelit.org/dpl/dpl.html)
+- [Default Password](http://www.defaultpassword.com/)
+- [Cirt](https://cirt.net/passwords)
 
