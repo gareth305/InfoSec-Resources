@@ -49,3 +49,5 @@ Just accounts that I follow, there's plenty more to be found. Often they'll post
 # Books
 
 # Conferences
+
+# Bug Bounty Reports
