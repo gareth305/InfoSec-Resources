@@ -11,6 +11,7 @@ I've had a few interviews in the past where they've asked if I follow any blogs,
 
 * [GracefulSecurity](https://www.gracefulsecurity.com/) - Holly's approach, to blog writing, is second to none! Definitely worth adding to your bookmarks!
 * [ZeroSec](https://blog.zsec.uk/) - Definitely a must read for those just starting out! Andy's blog is probably the most beginner friendly I've ever seen. He's even published a book, I'll mention it again down below but, [Breaking into Information Security: Learning the Ropes 101](https://leanpub.com/ltr101-breaking-into-infosec).
+* [AppSecBloke](https://appsecbloke.com/) - Mixing learning with conference writeups, Mike's blog is another great one to add to the list!
 
 
 # Twitter Accounts/People
@@ -34,6 +35,7 @@ Just accounts that I follow, there's plenty more to be found. Often they'll post
 * [@azeria_labs](https://twitter.com/azeria_labs)
 * [@FoxOnSecurity](https://twitter.com/FoxOnSecurity)
 * [@LiveOverflow](https://twitter.com/LiveOverflow)
+* [@AppSecBloke](https://twitter.com/AppSecBloke)
 
 # YouTube Channels
 
