@@ -1,13 +1,6 @@
 # Resources
 Infosec resources, collected from many different sources. I've personally found these resources helpful and/or interesting. So, have added them to this document for myself and others to make use of. (Resources I've used to help further my journey in infosec. So mainly aimed at the newer hackers, but the veteran hackers might find something useful as well.)
 
-# Default Passwords
-
-* [Router Passwords](https://routerpasswords.com/)
-* [Phenolit](http://www.phenoelit.org/dpl/dpl.html)
-* [Default Password](http://www.defaultpassword.com/)
-* [Cirt](https://cirt.net/passwords)
-
 # CTFs
 
 * [Captf.com](http://captf.com/practice-ctf/) - Extensive list of CTFs available online and to download.
@@ -51,3 +44,11 @@ Just accounts that I follow, there's plenty more to be found. Often they'll post
 # Conferences
 
 # Bug Bounty Reports
+
+# Default Passwords
+
+* [Router Passwords](https://routerpasswords.com/)
+* [Phenolit](http://www.phenoelit.org/dpl/dpl.html)
+* [Default Password](http://www.defaultpassword.com/)
+* [Cirt](https://cirt.net/passwords)
+
