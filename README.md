@@ -21,6 +21,7 @@ Just accounts that I follow, there's plenty more to be found. Often they'll post
 * [@LargeCardinal](https://twitter.com/LargeCardinal) - Wow! Mark's probably the most knowledgable guy I know. He's definitely a must follow!
 * [@HollyGraceful](https://twitter.com/HollyGraceful) - Her account, like her blog (GracefulSecurity), is full of knowledge and definitely worth a follow.
 * [@ZephrFish](https://twitter.com/ZephrFish) - Andy is so down to earth and helpful! He often posts about his blog and book, so you won't miss any updates.
+* [@Ministraitor](https://twitter.com/Ministraitor) - Cooper, Cooper is a one of a kind (in a good way!). He's the resident conference videographer. You'll find him and most conferences, and the ones you can't make it to? Oh, he'll already have uploaded the videos by the end of the day, usually!
   - [TBH by this point I gave up thinking of a description of each one... But they're all equally as amazing!]
 * [@Scott_Helme](https://twitter.com/Scott_Helme)
 * [@LewisArdern](https://twitter.com/LewisArdern)
@@ -37,14 +38,32 @@ Just accounts that I follow, there's plenty more to be found. Often they'll post
 * [@LiveOverflow](https://twitter.com/LiveOverflow)
 * [@AppSecBloke](https://twitter.com/AppSecBloke)
 
-# YouTube Channels
+# Videos
+### Sites ###
+* [administraitor.video](https://administraitor.video/) - Does the name ring any bells? Cooper's videos not only get uploaded the conference's YouTube channels, but also to his website. Meaning they're all in one place, making it easy to watch one after another and, before you know it, it's 7am and your alarm's going off...
+
+### YouTube Channels ###
 
 # Gits
 
 # Books
 
 # Conferences
+Conferences are a great way to meet people! Yes it may be scary at first, but we're all nice people really... Well most of us are! Ask questions, talk about your projects and get advice, and learn about other people's projects it can often give you a great idea to add to your, already long, list!
 
+### BSides ###
+They're everywhere! I guarantee if you Google your town and BSides, there'll be one there or if not it won't be too far away!
+
+* [BSides Leeds](http://bsidesleeds.co.uk/) | [@BSidesLeeds](https://twitter.com/BSidesLeeds) - Obviously the best one! Not that I'm bias or anything... ;) 
+* [BSides Manchester](https://www.bsidesmcr.org.uk/) | [@BSidesMCR](https://twitter.com/BSidesMCR)
+
+Just to name a couple, obviously there's plenty more!
+
+* [SteelCon](https://www.steelcon.info/) | [@Steel_Con](https://twitter.com/Steel_Con) - A bit more expensive than the other two, but 100% worth it! All the money from tickets goes straight back into the conference. From swag bags to other stuff, I tend to pay the most attention to the swag bags!
+
+* [Securi-Tay](https://securi-tay.co.uk/) | [@AbertayHackers](https://twitter.com/AbertayHackers) - Unfortunately, there's no Taylor Swift just cold weather... A student run conference in Dundee (Scotland), great for those still finding their feet. Just a forewarning, you'll likely hear legal tender mentioned, alot.
+
+There's so many more! [Cybersecurity Conferences](https://infosec-conferences.com/) is a great website to see what's coming up. 
 # Bug Bounty Reports
 
 # Default Passwords
