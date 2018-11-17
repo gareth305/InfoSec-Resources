@@ -38,6 +38,10 @@ Just accounts that I follow, there's plenty more to be found. Often they'll post
 * [@LiveOverflow](https://twitter.com/LiveOverflow)
 * [@AppSecBloke](https://twitter.com/AppSecBloke)
 
+### Students ###
+
+# Societies/Groups/Gatherings/Gaggles
+
 # Videos
 ### Sites ###
 * [administraitor.video](https://administraitor.video/) - Does the name ring any bells? Cooper's videos not only get uploaded the conference's YouTube channels, but also to his website. Meaning they're all in one place, making it easy to watch one after another and, before you know it, it's 7am and your alarm's going off...
