@@ -70,6 +70,10 @@ Just to name a couple, obviously there's plenty more!
 There's so many more! [Cybersecurity Conferences](https://infosec-conferences.com/) is a great website to see what's coming up. 
 # Bug Bounty Reports
 
+# Professional/Personal
+
+Probably the only none technical part of this guide, keep your personal and professional feelings separate. What I mean by this is, if you go for an interview, for example, and, for whatever reason, you're unsuccessful let it go. Forget about it, if you see them at a conference or a meetup say hi, have a drink with them pretend it never happened. It's not personal, it's just business! It's the same with personal feelings. It's a tight community, you will see that person again, be it a conference or work-related. Again, put it behind you, get the work done and carry on! If it's at a conference and you don't want to be near them, it's simple, DON'T. Just be civil and carry on, there's plenty of other people to talk and hang around with! Just whatever you do, avoid the alcohol, especially if it's a "big thing". You really don't want to have an argument infront of potential future employers!
+
 # Default Passwords
 
 * [Router Passwords](https://routerpasswords.com/)
