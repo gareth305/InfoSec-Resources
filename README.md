@@ -18,7 +18,7 @@ I've had a few interviews in the past where they've asked if I follow any blogs,
 
 Just accounts that I follow, there's plenty more to be found. Often they'll post '#FF', Follow Friday, another way to find more amazing accounts! Although you might think to yourself "I don't use twitter, I don't need it" it's worth it. Often the first place to learn of big hacks, and new vulnerabilities, and it's free... Just make an account, and see where it goes, you don't have to post anything.
 
-* [@LargeCardinal](https://twitter.com/LargeCardinal) - Wow! Mark's probably the most knowledgable guy I know. He's definitely a must follow!
+* [@LargeCardinal](https://twitter.com/LargeCardinal) - Mark's probably the most knowledgable guy I know. He's definitely a must follow!
 * [@HollyGraceful](https://twitter.com/HollyGraceful) - Her account, like her blog (GracefulSecurity), is full of knowledge and definitely worth a follow.
 * [@ZephrFish](https://twitter.com/ZephrFish) - Andy is so down to earth and helpful! He often posts about his blog and book, so you won't miss any updates.
 * [@Ministraitor](https://twitter.com/Ministraitor) - Cooper, Cooper is a one of a kind (in a good way!). He's the resident conference videographer. You'll find him and most conferences, and the ones you can't make it to? Oh, he'll already have uploaded the videos by the end of the day, usually!
@@ -38,9 +38,57 @@ Just accounts that I follow, there's plenty more to be found. Often they'll post
 * [@LiveOverflow](https://twitter.com/LiveOverflow)
 * [@AppSecBloke](https://twitter.com/AppSecBloke)
 
-### Students ###
+### Students/Graduates ###
+Although some of these may no longer be students, I will have met them as students, so still class them as such (If you're on this list and wish to be moved, give us a shout :-))
+
+* [@\_GarethP](https://twitter.com/_GarethP)
+* [@LauraWhit9](https://twitter.com/LauraWhit9)
+* [@TheFierce0ne](https://twitter.com/TheFierce0ne) - Honestly, not a very "fierce one"...
+* [@josh_moore4](https://twitter.com/josh_moore4)
+* [@charlieamber94](https://twitter.com/charlieamber94)
+* [@CaptainDjent](https://twitter.com/CaptainDjent)
+* [@wantabrew](https://twitter.com/wantabrew)
+* [@InfosecChlobo](https://twitter.com/InfosecChlobo)
+* [@\_Tibbles__](https://twitter.com/_Tibbles__)
+* [@Casual_Unknown](https://twitter.com/Casual_Unknown)
+* [@freya_schofield](https://twitter.com/freya_schofield)
+* [@ah_aamir](https://twitter.com/ah_aamir)
+* [@CuPcakeN1njA](https://twitter.com/CuPcakeN1njA)
+* [@enusecDan](https://twitter.com/enusecDan)
+* [@TheHairyJ](https://twitter.com/TheHairyJ)
+* [@hela_luc](https://twitter.com/hela_luc)
+* [@cybecsecurity](https://twitter.com/cybecsecurity)
+* [@kieczkowska](https://twitter.com/kieczkowska)
+* [@SynAckJack](https://twitter.com/SynAckJack)
+* [@gor_zilla](https://twitter.com/gor_zilla)
+* [@calgary__](https://twitter.com/calgary__)
+* [@WillGoard](https://twitter.com/WillGoard)
 
 # Societies/Groups/Gatherings/Gaggles
+You'll often find that there's a number of student run meetings (societies) and professionally run groups. Practically every university, that runs a security degree, has a hacking society. If not, start one! It's a great way to meet like minded students, makes networking tons easier, and looks great on your CV! If you're not a student - that doesn't necessarily you can't go, it just means that there might be a few hoops to jump through first. Groups run by professionals are just as good of an experience, if not better! They're organised and attended by students and professionals alike, these may seem scary but, if you join a society first, you'll likely find that some of them attend as well! These are also great placees to find others going to conferences, they'll usually be more than happy for you to "tag along" with them!
+
+### Societies ###
+* Leeds Hack Soc (Leeds Beckett) - [Website](http://leedshackingsociety.co.uk/) - [@leedsehs](https://twitter.com/leedsehs)
+* Abertay Hackers (Abertay University, Dundee) - [Website](https://hacksoc.co.uk/) - [@AbertayHackers](https://twitter.com/AbertayHackers)
+* EnuSec (Edinburgh Napier) - [Website](https://enusec.org) - [@\_enusec_](https://twitter.com/_enusec_)
+* SigInt (University of Edinburgh) - [Website](https://sigint.mx) - [@siginthq](https://twitter.com/siginthq)
+* GreHackers (University of Greenwich) - [Website](https://www.suug.co.uk/societies/ethicalhackers/) - [@Gre_Hackers](https://twitter.com/Gre_Hackers)
+* BUCSS (Bournemouth University) - [Website](https://bucss.org/) - [@\_BUCSS](https://twitter.com/_BUSCSS)
+* DMU Hackers (De Montfort University) - [Website](https://dmuhackers.com/) - [@dmuhackers](https://twitter.com/dmuhackers)
+* AFNOM (University of Birmingham) - [Website](https://afnom.net/) - [@UoB_afnom](https://twitter.com/UoB_afnom)
+* HackSoc (University of York) - [Website](https://www.hacksoc.org/) - [@HackSoc](https://twitter.com/HackSoc)
+N.B. if you know of any I've missed, let me know and I'll add them.
+
+### Groups/Gatherings/Gaggles ###
+These seem to be fairly illusive, so here's the few I know of. There's plenty more, just run a Google search and you'll find something!
+
+* Leeds - [DC151](https://www.dc151.org/) - [@\_dc151](https://twitter.com/_dc151)
+* Manchester - [Manchester Grey Hats](https://manchestergreyhats.co.uk/) - [@mcrgreyhats](https://twitter.com/mcrgreyhats)
+* Glasgow - DC44141 - [@DC44141](https://twitter.com/DC44141)
+* Sheffield - DC44114 - [@dc44114](https://twitter.com/dc44114)
+* London - [DC4420](http://dc4420.org/) - [@dc4420](https://twitter.com/dc4420)
+* Exeter - [DC441392](https://dc441392.org.uk/) - [@dc441392](https://twitter.com/dc441392)
+
 
 # Videos
 ### Sites ###
@@ -56,7 +104,7 @@ Just accounts that I follow, there's plenty more to be found. Often they'll post
 Conferences are a great way to meet people! Yes it may be scary at first, but we're all nice people really... Well most of us are! Ask questions, talk about your projects and get advice, and learn about other people's projects it can often give you a great idea to add to your, already long, list!
 
 ### BSides ###
-They're everywhere! I guarantee if you Google your town and BSides, there'll be one there or if not it won't be too far away!
+They're everywhere! I guarantee if you Google your town and BSides, there'll be one there or, if not, one won't be too far away!
 
 * [BSides Leeds](http://bsidesleeds.co.uk/) | [@BSidesLeeds](https://twitter.com/BSidesLeeds) - Obviously the best one! Not that I'm bias or anything... ;) 
 * [BSides Manchester](https://www.bsidesmcr.org.uk/) | [@BSidesMCR](https://twitter.com/BSidesMCR)
