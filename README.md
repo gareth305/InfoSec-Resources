@@ -12,13 +12,14 @@ I've had a few interviews in the past where they've asked if I follow any blogs,
 * [GracefulSecurity](https://www.gracefulsecurity.com/) - Holly's approach, to blog writing, is second to none! Definitely worth adding to your bookmarks!
 * [ZeroSec](https://blog.zsec.uk/) - Definitely a must read for those just starting out! Andy's blog is probably the most beginner friendly I've ever seen. He's even published a book, I'll mention it again down below but, [Breaking into Information Security: Learning the Ropes 101](https://leanpub.com/ltr101-breaking-into-infosec).
 * [AppSecBloke](https://appsecbloke.com/) - Mixing learning with conference writeups, Mike's blog is another great one to add to the list!
-
+* [MintyNet](https://www.mintynet.com/) - More of a follow-along blog, than a "this is how you do this" blog, but still just as amazing and worth the occasional visit. Ian often posts updates of his car-in-a-box, yes you read that correctly! Ian has taken a Peugeot 208 and stuck, practically, everything but the engine in there. Even then though, he's replicated it using LEDs. It's an awesome piece of kit, by an guy that really knows his stuff! Just maybe don't let him borrow your car for too long!
 
 # Twitter Accounts/People
 
 Just accounts that I follow, there's plenty more to be found. Often they'll post '#FF', Follow Friday, another way to find more amazing accounts! Although you might think to yourself "I don't use twitter, I don't need it" it's worth it. Often the first place to learn of big hacks, and new vulnerabilities, and it's free... Just make an account, and see where it goes, you don't have to post anything.
 
 * [@LargeCardinal](https://twitter.com/LargeCardinal) - Mark's probably the most knowledgable guy I know. He's definitely a must follow!
+* [@mintynet](https://twitter.com/mintynet) - Ian is the creator of the car in a box, and boy is it a piece of kit! His knowledge of car hacking is second to none and definitely worthy of a follow!
 * [@HollyGraceful](https://twitter.com/HollyGraceful) - Her account, like her blog (GracefulSecurity), is full of knowledge and definitely worth a follow.
 * [@ZephrFish](https://twitter.com/ZephrFish) - Andy is so down to earth and helpful! He often posts about his blog and book, so you won't miss any updates.
 * [@Ministraitor](https://twitter.com/Ministraitor) - Cooper, Cooper is a one of a kind (in a good way!). He's the resident conference videographer. You'll find him and most conferences, and the ones you can't make it to? Oh, he'll already have uploaded the videos by the end of the day, usually!
