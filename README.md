@@ -44,11 +44,7 @@ Although some of these may no longer be students, I will have met them as studen
 
 * [@\_GarethP](https://twitter.com/_GarethP)
 * [@LauraWhit9](https://twitter.com/LauraWhit9)
-* [@TheFierce0ne](https://twitter.com/TheFierce0ne) - Honestly, not a very "fierce one"...
-* [@josh_moore4](https://twitter.com/josh_moore4)
 * [@charlieamber94](https://twitter.com/charlieamber94)
-* [@CaptainDjent](https://twitter.com/CaptainDjent)
-* [@wantabrew](https://twitter.com/wantabrew)
 * [@InfosecChlobo](https://twitter.com/InfosecChlobo)
 * [@\_Tibbles__](https://twitter.com/_Tibbles__)
 * [@Casual_Unknown](https://twitter.com/Casual_Unknown)
